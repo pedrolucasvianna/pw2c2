@@ -1,0 +1,84 @@
+<html>
+<title> titulo html ação </title>
+<link rel="shortcut icon" href="https://cemicruzeiro.se.df.gov.br/ead/theme/image.php/boost/theme/1626361680/favicon" /> 
+<meta charset="utf-8">
+<script>
+function teste(){
+alert('PEdro Lucas');
+}
+</script>
+<style>
+.bg{
+background-color:#6200EE;
+color:white;
+}
+.link{
+text-decoration:none;
+color:red;
+}
+
+.link:hover{
+text-decoration:underline;
+color:yellow;
+font-size:20px;
+}
+
+</style>
+
+<body class="bg">
+<a class="link" href="#rodape">ir para rodape </a>
+<br>
+<a class="link" href="https://www.instagram.com/adiantadu">ir para adiantaduh </a>
+<table border="1">
+<tr>
+	<td>01</td>
+	<td>02</td>
+<td>03</td>
+</tr>
+<tr>
+	<td>01</td>
+	<td>02</td>
+	<td>03</td>
+</tr>
+</table>
+<br>
+<form>
+<input type="hidden" name="email"  value=""/> <br>
+<button type="button" onclick="teste()">enviar</button>
+</form>
+
+
+<h1>pedro</h1>
+<h2>pedro</h2>
+<h3>pedro</h3>
+<h4>pedro</h4>
+<h5>pedro</h5>
+<h6>pedro</h6>
+<p align=justify>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+
+Porque nós o usamos?
+É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).
+</p>
+
+<ul>
+<li>Prof. André - Pntrodução ao HTML <a class="link" href="#rodape">rodape</a></li>
+<li>Prof. André - Introdução ao HTML parte 2</li>
+<li>Prof. André - HTML intermediário</li>
+</ul> 
+<ol>
+<li>Prof. André - Pntrodução ao HTML</li>
+<li>Prof. André - Introdução ao HTML parte 2</li>
+<li>Prof. André - HTML intermediário</li>
+</ol> 
+<br><br><br><br><br>
+<img src="https://www.breaktudo.com/wp-content/uploads/2018/03/loren-gray-irm%C3%A3o-brother-wikipedia-biografia-altura-height-namorado-boyfriend.png" alt="Loren Gray" title="loren gray" />
+<br><br>
+<img src="https://bestanimations.com/media/brazil/919912699brazilian-flag-animated-gif-18-big.gif" alt="GIF" title="GIF" />
+
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/phvtIayUSjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<video src="https://www.youtube.com/embed/phvtIayUSjk" autoplay>
+<p id=rodape>rodapé</p>
+</body>
+</html>
